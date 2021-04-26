@@ -14,5 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Donna's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanvean74&count_private=true&show_icons=true&theme=darcula)
+[![Donna's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanvean74&count_private=true&show_icons=true&theme=darcula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanvean74&layout=compact)](https://github.com/sanvean74/github-readme-stats&theme=darcula)
+
 

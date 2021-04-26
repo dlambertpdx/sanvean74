@@ -18,6 +18,6 @@ jobs:
     name: Update this repo's README
     runs-on: ubuntu-latest
     steps:
-      - uses: sanvean74/waka-readme@main
+      - uses: sanvean74/sanvean74@main
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}

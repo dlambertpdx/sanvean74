@@ -5,7 +5,7 @@
 ### Tech Stack
 
 |  	|  	|
-|-	|-	|
+|-:	|-	|
 | Languages 	| Javascript, PHP, TypeScript, HTML, CSS 	|
 | Front End 	| React, Redux 	|
 | Back End 	| Node.js, Express 	|

@@ -3,7 +3,8 @@
 [![Linkedin: dlambertpdx](https://img.shields.io/badge/-dlambertpdx-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dlambertpdx/)](https://www.linkedin.com/in/dlambertpdx/)
 
 ### Tech Stack
-#### Languages: <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+#### Languages
+<img alt="Javascript" src="https://badges.aleen42.com/src/javascript.svg"/>
 #### Frameworks:
 #### Testing:
 #### Database:

@@ -26,7 +26,7 @@ Constantly curious full-stack JavaScript Developer, with a deep interest in data
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=sanvean74&repo=whiskepedia&hide_border=true&layout=compact&theme=darcula" />
 </div>
 <div align='center'>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=sanvean74&repo=long-distance-bike-ride-planner.github.io&hide_border=true&layout=compact&theme=darcula" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=sanvean74&repo=long-distance-bike-ride-planner&hide_border=true&layout=compact&theme=darcula" />
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=sanvean74&repo=ColorGame&hide_border=true&layout=compact&theme=darcula" />
 </div>
 

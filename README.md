@@ -18,3 +18,5 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanvean74&layout=compact)](https://github.com/sanvean74/github-readme-stats&langs_count=10&theme=darcula)
 
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->

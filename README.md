@@ -2,6 +2,13 @@
 
 [![Linkedin: dlambertpdx](https://img.shields.io/badge/-dlambertpdx-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dlambertpdx/)](https://www.linkedin.com/in/dlambertpdx/)
 
+## Tech Stack
+# Languages: <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+# Frameworks:
+# Testing:
+# Database:
+# Tools: 
+
 <div align="center">
   <img align="" height="130px" src="https://github-readme-stats.vercel.app/api?username=sanvean74&show_icons=true&hide_title=true&include_all_commits=true&hide_border=true&theme=darcula" /><img align="" height="130px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanvean74&show_icons=true&hide_border=true&hide_title=true&layout=compact&theme=darcula" />
 </div>

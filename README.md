@@ -37,18 +37,28 @@
 ## 💾 Projects
 
 <div align='center'>
-  <a href='https://github.com/Team-Dead-Ant/BASHful'>
+  <a href='https://github.com/Team-Dead-Ant/BASHful' target='blank'>
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=sanvean74&repo=BASHful&hide_border=true&layout=compact&theme=darcula" />
   </a>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=sanvean74&repo=narrative-frontend&hide_border=true&layout=compact&theme=darcula" />
+  <a href='https://github.com/sanvean74/narrative-frontend' target='blank'>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sanvean74&repo=narrative-frontend&hide_border=true&layout=compact&theme=darcula" />
+  </a>
 </div>
 <div align='center'>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=sanvean74&repo=tarot-reader.github.io&hide_border=true&layout=compact&theme=darcula" />
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=sanvean74&repo=whiskepedia&hide_border=true&layout=compact&theme=darcula" />
+  <a href='https://github.com/sanvean74/tarot-reader.github.io' target='blank'>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sanvean74&repo=tarot-reader.github.io&hide_border=true&layout=compact&theme=darcula" />
+  </a>
+  <a href='https://github.com/sanvean74/whiskepedia' target='blank'>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sanvean74&repo=whiskepedia&hide_border=true&layout=compact&theme=darcula" />
+  </a>
 </div>
 <div align='center'>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=sanvean74&repo=long-distance-bike-ride-planner&hide_border=true&layout=compact&theme=darcula" />
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=sanvean74&repo=ColorGame&hide_border=true&layout=compact&theme=darcula" />
+  <a href='https://github.com/sanvean74/long-distance-bike-ride-planner' target='blank'>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sanvean74&repo=long-distance-bike-ride-planner&hide_border=true&layout=compact&theme=darcula" />
+  </a>
+  <a href='https://github.com/sanvean74/ColorGame' target='blank'>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sanvean74&repo=ColorGame&hide_border=true&layout=compact&theme=darcula" />
+  </a>
 </div>
 
 ## 📊 Stats

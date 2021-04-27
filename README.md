@@ -4,7 +4,31 @@
 
 ## About Me
 
-Constantly curious full-stack JavaScript Developer, with a deep interest in data and the stories it tells. Passionate about technology and problem-solving. Always striving to be an effective communicator and collaborative developer.
+```
+  const sanvean74 = {
+    name: 'Donna Lambert',
+    pronouns: ['she', 'her'],
+      location: {
+      city: 'Portland',
+      state: 'Oregon',
+    },
+    currentJob: {
+      title: 'Data Engineer',
+      company: 'Alma',
+    },
+    contact: {
+      linkedIn: 'https://linkedin.com/in/dlambertpdx',
+      email: 'dlambert@fastmail.com',
+    },
+    catPerson: true,
+    pet: {
+      name: 'Freddie',
+      type: 'Feline',
+      breed: 'Floofy',
+      age: '10 years',
+    },
+   };
+```
 
 ## 🔧 Technologies & Tools
 

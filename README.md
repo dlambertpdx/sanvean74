@@ -37,26 +37,26 @@
 ## 💾 Projects
 
 <div align='center'>
-  <a href='https://github.com/Team-Dead-Ant/BASHful' target='blank'>
+  <a href='https://github.com/Team-Dead-Ant/BASHful' target='_blank'>
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=sanvean74&repo=BASHful&hide_border=true&layout=compact&theme=darcula" />
   </a>
-  <a href='https://github.com/sanvean74/narrative-frontend' target='blank'>
+  <a href='https://github.com/sanvean74/narrative-frontend' target='_blank'>
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=sanvean74&repo=narrative-frontend&hide_border=true&layout=compact&theme=darcula" />
   </a>
 </div>
 <div align='center'>
-  <a href='https://github.com/sanvean74/tarot-reader.github.io' target='blank'>
+  <a href='https://github.com/sanvean74/tarot-reader.github.io' target='_blank'>
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=sanvean74&repo=tarot-reader.github.io&hide_border=true&layout=compact&theme=darcula" />
   </a>
-  <a href='https://github.com/sanvean74/whiskepedia' target='blank'>
+  <a href='https://github.com/sanvean74/whiskepedia' target='_blank'>
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=sanvean74&repo=whiskepedia&hide_border=true&layout=compact&theme=darcula" />
   </a>
 </div>
 <div align='center'>
-  <a href='https://github.com/sanvean74/long-distance-bike-ride-planner' target='blank'>
+  <a href='https://github.com/sanvean74/long-distance-bike-ride-planner' target='_blank'>
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=sanvean74&repo=long-distance-bike-ride-planner&hide_border=true&layout=compact&theme=darcula" />
   </a>
-  <a href='https://github.com/sanvean74/ColorGame' target='blank'>
+  <a href='https://github.com/sanvean74/ColorGame' target='_blank'>
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=sanvean74&repo=ColorGame&hide_border=true&layout=compact&theme=darcula" />
   </a>
 </div>

@@ -1,10 +1,30 @@
 ### Hi there, I'm Donna 👋
-
-[![Linkedin: dlambertpdx](https://img.shields.io/badge/-dlambertpdx-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dlambertpdx/)](https://www.linkedin.com/in/dlambertpdx/)
-
 ## About Me
-
-Constantly curious full-stack JavaScript Developer, with a deep interest in data and the stories it tells. Passionate about technology and problem-solving. Always striving to be an effective communicator and collaborative developer.
+```
+  const sanvean74 = {
+    name: 'Donna Lambert',
+    pronouns: ['she', 'her'],
+    location: {
+      city: 'Portland',
+      state: 'Oregon',
+    },
+    currentJob: {
+      title: 'Data Engineer',
+      company: 'Alma',
+    },
+    contact: {
+      linkedIn: 'https://linkedin.com/in/dlambertpdx',
+      email: 'dlambert@fastmail.com',
+    },
+    catPerson: true,
+    pet: {
+      name: 'Freddie',
+      type: 'Feline',
+      breed: 'Floof Ball',
+      age: '10 Years',
+    },
+   };
+```
 
 ## 🔧 Technologies & Tools
 

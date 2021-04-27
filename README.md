@@ -1,34 +1,10 @@
 ### Hi there, I'm Donna 👋
 
-[!](https://www.linkedin.com/in/dlambertpdx/)
+[![Linkedin: dlambertpdx](https://img.shields.io/badge/-dlambertpdx-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dlambertpdx/)](https://www.linkedin.com/in/dlambertpdx/)
 
 ## About Me
 
-```
-  const sanvean74 = {
-    name: 'Donna Lambert',
-    pronouns: ['she', 'her'],
-    location: {
-      city: 'Portland',
-      state: 'Oregon',
-    },
-    currentJob: {
-      title: 'Data Engineer',
-      company: 'Alma',
-    },
-    contact: {
-      linkedIn: 'https://linkedin.com/in/dlambertpdx',
-      email: 'dlambert@fastmail.com',
-    },
-    catPerson: true,
-    pet: {
-      name: 'Freddie',
-      type: 'Feline',
-      breed: 'Floofy',
-      age: '10 years',
-    },
-   };
-```
+Constantly curious full-stack JavaScript Developer, with a deep interest in data and the stories it tells. Passionate about technology and problem-solving. Always striving to be an effective communicator and collaborative developer.
 
 ## 🔧 Technologies & Tools
 
@@ -42,7 +18,7 @@
 ## Projects
 
 <div align='center'>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=sanvean74&repo=BASHful&hide_border=true&layout=compact&theme=darcula" />
+[<img src="https://github-readme-stats.vercel.app/api/pin/?username=sanvean74&repo=BASHful&hide_border=true&layout=compact&theme=darcula" />](https://github.com/Team-Dead-Ant/BASHful)
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=sanvean74&repo=narrative-frontend&hide_border=true&layout=compact&theme=darcula" />
 </div>
 <div align='center'>

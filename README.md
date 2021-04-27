@@ -1,4 +1,4 @@
-## About Me
+## 🤖 About Me
 ```
   const sanvean74 = {
     name: 'Donna Lambert',
@@ -34,7 +34,7 @@
 - Testing > Jest, Enzyme, QUnit
 - Other > VSCode, Git, GitHub, BitBucket, Jira, Webpack, Heroku, Netlify, Firebase, Vagrant
 
-## Projects
+## 💾 Projects
 
 <div align='center'>
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=sanvean74&repo=BASHful&hide_border=true&layout=compact&theme=darcula" />
@@ -49,7 +49,7 @@
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=sanvean74&repo=ColorGame&hide_border=true&layout=compact&theme=darcula" />
 </div>
 
-## Stats
+## 📊 Stats
 
 <div align="center">
   <img align="" height="130px" src="https://github-readme-stats.vercel.app/api?username=sanvean74&show_icons=true&count_private=true&hide_title=true&include_all_commits=true&hide_border=true&theme=darcula" /><img align="" height="130px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanvean74&show_icons=true&hide_border=true&hide_title=true&layout=compact&theme=darcula" />

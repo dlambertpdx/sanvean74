@@ -1,4 +1,3 @@
-### Hi there, I'm Donna 👋
 ## About Me
 ```
   const sanvean74 = {

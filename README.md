@@ -18,7 +18,7 @@ Constantly curious full-stack JavaScript Developer, with a deep interest in data
 ## Projects
 
 <div align='center'>
-[<img src="https://github-readme-stats.vercel.app/api/pin/?username=sanvean74&repo=BASHful&hide_border=true&layout=compact&theme=darcula" />](https://github.com/Team-Dead-Ant/BASHful)
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=sanvean74&repo=BASHful&hide_border=true&layout=compact&theme=darcula" />
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=sanvean74&repo=narrative-frontend&hide_border=true&layout=compact&theme=darcula" />
 </div>
 <div align='center'>

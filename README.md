@@ -8,7 +8,7 @@
   const sanvean74 = {
     name: 'Donna Lambert',
     pronouns: ['she', 'her'],
-      location: {
+    location: {
       city: 'Portland',
       state: 'Oregon',
     },

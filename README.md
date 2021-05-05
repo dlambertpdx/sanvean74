@@ -66,5 +66,3 @@
 <div align="center">
   <img align="" height="130px" src="https://github-readme-stats.vercel.app/api?username=sanvean74&show_icons=true&count_private=true&hide_title=true&include_all_commits=true&hide_border=true&theme=darcula" /><img align="" height="130px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanvean74&show_icons=true&hide_border=true&hide_title=true&layout=compact&theme=darcula" />
 </div>
-
-<embed src="https://wakatime.com/share/@26eb769c-c473-45ab-93e7-8ede596f5b03/fc5b1807-a8e7-42d5-bb72-a331f5981d96.svg"></embed>

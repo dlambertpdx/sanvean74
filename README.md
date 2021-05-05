@@ -9,7 +9,7 @@
     },
     currentJob: {
       title: 'Data Engineer',
-      company: 'Alma',
+      company: 'Alma Technologies',
     },
     contact: {
       linkedIn: 'https://linkedin.com/in/dlambertpdx',

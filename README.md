@@ -27,12 +27,12 @@
 
 ## 🔧 Technologies & Tools
 
-- Languages > Javascript, PHP, HTML, CSS
-- Front End > React, Redux
-- Back End > Node, Express
-- Databases > MongoDB, Postgres
-- Testing > Jest, Enzyme, QUnit
-- Other > VSCode, Git, GitHub, BitBucket, Jira, Webpack, Heroku, Netlify, Firebase, Vagrant
+- Languages > `Javascript, PHP, HTML, CSS`
+- Front End > `React, Redux`
+- Back End > `Node, Express`
+- Databases > `MongoDB, Postgres`
+- Testing > `Jest, Enzyme, QUnit`
+- Other > `VSCode, Git, GitHub, BitBucket, Jira, Webpack, Heroku, Netlify, Firebase, Vagrant`
 
 ## 💾 Projects
 

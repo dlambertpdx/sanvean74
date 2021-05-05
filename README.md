@@ -64,9 +64,9 @@
 ## 📊 Stats
 
 <div align="center">
-  <img align="" height="130px" src="https://github-readme-stats.vercel.app/api?username=sanvean74&show_icons=true&count_private=true&hide_title=true&include_all_commits=true&hide_border=true&theme=darcula" /><img align="" height="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanvean74&show_icons=true&hide_border=true&hide_title=true&layout=compact&theme=darcula" />
+  <img align="" height="130px" src="https://github-readme-stats.vercel.app/api?username=sanvean74&show_icons=true&count_private=true&hide_title=true&include_all_commits=true&hide_border=true&theme=darcula" /><img align="" height="130px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanvean74&show_icons=true&hide_border=true&hide_title=true&layout=compact&theme=darcula" />
 </div>
 <div align="center">
-<img src="https://wakatime.com/share/@26eb769c-c473-45ab-93e7-8ede596f5b03/7297f20d-dbdc-47a7-9fee-06976dfa0712.svg" height="130px"/>
+<img src="https://wakatime.com/share/@26eb769c-c473-45ab-93e7-8ede596f5b03/7297f20d-dbdc-47a7-9fee-06976dfa0712.svg" height="300px"/>
 </div>
 

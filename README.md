@@ -15,13 +15,6 @@
       linkedIn: 'https://linkedin.com/in/dlambertpdx',
       email: 'dlambert@fastmail.com',
     },
-    catPerson: true,
-    pet: {
-      name: 'Freddie',
-      type: 'Feline',
-      breed: 'Floof Ball',
-      age: '10 Years',
-    },
    };
 ```
 

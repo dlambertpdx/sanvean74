@@ -8,7 +8,7 @@
       state: 'Oregon',
     },
     currentJob: {
-      title: 'Frontend Engineer',
+      title: 'Software Engineer',
       company: 'Fast Radius',
     },
     contact: {

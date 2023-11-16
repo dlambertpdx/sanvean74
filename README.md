@@ -9,7 +9,7 @@
     },
     currentJob: {
       title: 'Software Engineer',
-      company: 'Fast Radius',
+      company: 'Open to Work',
     },
     contact: {
       linkedIn: 'https://linkedin.com/in/dlambertpdx',

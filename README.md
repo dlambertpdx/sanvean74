@@ -9,7 +9,7 @@
     },
     currentJob: {
       title: 'Software Engineer',
-      company: 'Open to Work',
+      company: 'Looking for my next opportunity',
     },
     contact: {
       linkedIn: 'https://linkedin.com/in/dlambertpdx',

@@ -1,6 +1,6 @@
 ## 🤖 About Me
 ```
-  const sanvean74 = {
+  const dlambertpdx = {
     name: 'Donna Lambert',
     pronouns: ['she', 'her'],
     location: {
